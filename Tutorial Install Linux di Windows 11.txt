@@ -14,19 +14,21 @@ Step 3:
 	Buka Windows Store --> Ubuntu atau preferensi Linux lain --> open
 	
 Step 4:
-	Buka Windows Store kemudian cari
+	Buku Ubuntu pada Windows
+Step 5:
+	Buka https://aka.ms/wsl2kernel
 	WSL2 Linux kernel update packagde for x64 machine
 	Download --> open --> install
 	
-Step 5:
+Step 6:
 	Enter new Unix username dan password
 	
-Step 6:
+Step 7:
 	Buka Ubuntu masukkan username dan password 
 	Ketikkan perintah berikut
 	pwd
 	ls /mnt/
 	cd /mnt/c
 	ls -al
-	cd Users/nama/Dekstop
-	toutch .test.txt
+	cd Users/kholi/
+	touch .test.txt
