@@ -1,0 +1,32 @@
+##Tutorial Install Linux in Windows 11##
+
+Step 1:
+	Masuk ke Windows Features atau dapat diakses dari control panel --> programs --> features
+	Pilih Turn Windows Features
+	Centang pada bagian Windows Subsystem for Linux
+	Kemudian restart PC/laptop
+	
+Step 2:
+	Buka command prompt atau cmd --> enter
+	Ketik bash --> enter
+	
+Step 3:
+	Buka Windows Store --> Ubuntu atau preferensi Linux lain --> open
+	
+Step 4:
+	Buka Windows Store kemudian cari
+	WSL2 Linux kernel update packagde for x64 machine
+	Download --> open --> install
+	
+Step 5:
+	Enter new Unix username dan password
+	
+Step 6:
+	Buka Ubuntu masukkan username dan password 
+	Ketikkan perintah berikut
+	pwd
+	ls /mnt/
+	cd /mnt/c
+	ls -al
+	cd Users/nama/Dekstop
+	toutch .test.txt
