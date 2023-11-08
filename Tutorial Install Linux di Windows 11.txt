@@ -15,6 +15,7 @@ Step 3:
 	
 Step 4:
 	Buku Ubuntu pada Windows
+
 Step 5:
 	Buka https://aka.ms/wsl2kernel
 	WSL2 Linux kernel update packagde for x64 machine
